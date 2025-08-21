@@ -30,4 +30,4 @@ This project analyzes a decade of data from the World Happiness Report to identi
 
 ## Data Source
 
-The data used in this project is from the World Happiness Report, sourced from Kaggle. [Link to Kaggle Dataset]
+The data used in this project is from the World Happiness Report, sourced from Kaggle. 
